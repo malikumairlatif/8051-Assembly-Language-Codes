@@ -1,0 +1,23 @@
+PINNACLE 52 LINKER MAP FILE
+
+Output File: C:\PINNACLE\7SEGAUTO.HEX
+
+RELOCATABLE SEGMENTS:
+
+      SEGMENT  START   END   TOTAL
+TYPE   NAME     ADDR  ADDR  LENGTH
+----  -------- ----- -----  ------
+
+PUBLIC SYMBOLS:
+
+  
+*   VALUE   SYMBOL NAME  
+- --------- -------------------------
+C 0000 0003 Start
+C 0000 010F REPEAT
+C 0000 0112 LOOP
+C 0000 011F delay15
+C 0000 0121 here4
+C 0000 0123 here5
+C 0000 0125 here6
+C 0000 0500 COUNT
